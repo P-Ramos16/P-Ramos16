@@ -8,9 +8,8 @@
 
 ##
   <div style="display: inline_block">
-    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://imgur.com/cgwwfIy">
-    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://imgur.com/cgwwfIy">
-  <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="">
+    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">
+    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">
   </div>
   
 
