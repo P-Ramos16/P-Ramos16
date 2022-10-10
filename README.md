@@ -2,7 +2,7 @@
 <h1 align="center">Boas, o meu nome está no topo da pagina</h1>
 <h3 align="center">Sou de Peniche mas estou em Aveiro a estudar Engenharia Informática</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-ramos16" alt="p-ramos16" /></a> </p>
+#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-ramos16" alt="p-ramos16" /></a> </p>
 
 - 🔭 I’m currently working on **porcarias random**
 
