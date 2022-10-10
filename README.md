@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **porcarias random**
 
-- 👨‍💻 All of my projects are available at [aqui](aqui)
+- 👨‍💻 All of my projects are available at [aqui](https://github.com/P-Ramos16)
 
-- 💬 Ask me about **a minha mota**
+- 💬 Ask me about **a minha mota e linux rice**
 
 - 📫 How to reach me **Frosty Wolf#0109 no discord**
 
