@@ -13,6 +13,10 @@
 - 📫 How to reach me **Frosty Wolf#0109 no discord**
 
 - ⚡ Fun fact **sou gold no lol mas podia ser plat (não)**
+- 
+<div style="display: inline_block">
+  <img align="left" alt="Me-pic" height="560" width="960" style="border-radius:50px;" src="https://i.imgur.com/3QOkvkC.jpg">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +34,9 @@
 
 ##
   <div style="display: inline_block">
-    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">
-    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">
+    <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/ULM7WrX.png">
+      <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/FaFd7FQ.png">
+ <!--   <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">-->
   </div>
   
 
