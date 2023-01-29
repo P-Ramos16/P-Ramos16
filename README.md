@@ -37,9 +37,9 @@
   
 ##
   <div style="display: inline_block;">
-    <img align="left" alt="Me-pic" height="160" width="275" style="border-radius:50px;" src="https://i.imgur.com/ULM7WrX.png">
-      <img align="left" alt="Me-pic" height="160" width="275" style="border-radius:50px;" src="https://i.imgur.com/FaFd7FQ.png">
-    <img align="left" alt="Me-pic" height="160" width="275" style="border-radius:50px;" src="https://i.imgur.com/bkbK5AK.jpg">
+    <img align="left" alt="Me-pic" height="160" width="250" style="border-radius:50px;" src="https://i.imgur.com/ULM7WrX.png">
+      <img align="left" alt="Me-pic" height="160" width="250" style="border-radius:50px;" src="https://i.imgur.com/FaFd7FQ.png">
+    <img align="left" alt="Me-pic" height="160" width="250" style="border-radius:50px;" src="https://i.imgur.com/bkbK5AK.jpg">
  <!--   <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">-->
   </div>
   
