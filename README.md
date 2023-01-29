@@ -1,12 +1,18 @@
 # P-Ramos16
+
 <h1 align="center">Boas, o meu nome está no topo da pagina</h1>
 <h3 align="center">Sou de Peniche mas estou em Aveiro a estudar Engenharia Informática</h3>
+
+&nbsp;
+![Logo](https://i.imgur.com/hvZODXy.png)
+&nbsp;
+
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-ramos16" alt="p-ramos16" /></a> </p>-->
 
 - 🔭 I’m currently working on **porcarias random**
 
-- 👨‍💻 All of my projects are available at [aqui](https://github.com/P-Ramos16)
+- 👨‍💻 All of my projects are available at [aqui](https://github.com/P-Ramos16/Projetos_Univ) mas se quiseres aulas práticas e coisas uteis podes vir [aqui](https://github.com/P-Ramos16/Univ)
 
 - 💬 Ask me about **a minha mota e linux rice**
 
