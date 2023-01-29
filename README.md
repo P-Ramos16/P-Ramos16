@@ -42,8 +42,8 @@
 
 <div align="center">
   <a href="https://github.com/P-Ramos16/P-Ramos16">
-  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=P-Ramos16&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=90,1b4571,46bded"/>
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ramos16&layout=compact&langs_count=9&theme=react&bg_color=90,1b4571,46bded"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=P-Ramos16&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=90,1b4571,46bded"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ramos16&layout=compact&langs_count=9&theme=react&bg_color=90,1b4571,46bded"/>
 </div>
 
 ---
