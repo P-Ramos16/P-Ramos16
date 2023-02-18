@@ -27,7 +27,7 @@
 
 <div style="display: inline_block">
   <p>
-  <img align="left" alt="Me-pic" height="560" width="960" style="border-radius:50px;" src="https://i.imgur.com/3QOkvkC.jpg">
+  <img align="left" alt="Me-pic" height="560" width="960" style="border-radius:50px;" src="https://i.imgur.com/1NZXjoi.jpg">
   </p>
 </div>
 
