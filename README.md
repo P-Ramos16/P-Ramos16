@@ -47,6 +47,38 @@
 </div>
 
 ---
+
+My Rices:
+<div style="display: inline_block">
+  <p>
+  <img align="left" alt="Me-pic" height="280" width="480" style="border-radius:50px;" src="https://i.imgur.com/XwvvYhD.png">
+  </p>
+  <p>
+  <img align="left" alt="Me-pic" height="280" width="480" style="border-radius:50px;" src="https://i.imgur.com/uLjHVd2.png">
+  </p>
+  <p>
+  <img align="left" alt="Me-pic" height="280" width="480" style="border-radius:50px;" src="https://i.imgur.com/fIn7QPJ.png">
+  </p>
+  <p>
+    <h4 height="280" width="480">
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+    Specs:<br>
+      MSI Modern 15 A5M <br>
+      Ryzen 7 5700U (16) manually clocked to 1.4Ghz-4.35Ghz<br>
+      Vega 8 iGpu<br>
+      Kingston FURY 32GB 3200Mhz CL20<br>
+      2x Samsung 980 M.2 (512Gb and 1Tb)<br>
+      Manjaro KDE with XFCE and i3 (still ricing)<br>
+      Logitech G502 + trackball<br>
+      Hyperx Cloud2<br>
+      Random Matrics Red switch half keyboard thing<br>
+     </h4>
+  </p>
+</div>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+---
   
   <div align="center">
     <img alt="Me-pic" height="160" width="250" style="border-radius:50px;position:relative;" src="https://i.imgur.com/ULM7WrX.png">
