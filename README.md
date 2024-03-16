@@ -58,9 +58,9 @@
 
 <div align="center">
   <a href="https://github.com/P-Ramos16/P-Ramos16">
-  <img height="240" src="https://github-readme-stats.vercel.app/api?username=P-Ramos16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=90,1b4571,47c0f0&show=reviews,prs_merged_percentage"/>
-  <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ramos16&layout=donut&langs_count=6&theme=algolia&bg_color=90,1b4571,47c0f0&hide=css,scss,less,html,jupyter%20notebook,matlab,g-code"/>
-  <img height="145" src="https://github-readme-stats.vercel.app/api/wakatime?username=P_Ramos16&theme=algolia&bg_color=90,1b4571,47c0f0&layout=compact"/>
+  <!--<img height="240" src="https://github-readme-stats.vercel.app/api?username=P-Ramos16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=90,1b4571,47c0f0&show=reviews,prs_merged_percentage"/>-->
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ramos16&layout=donut&langs_count=6&theme=algolia&bg_color=90,1b4571,47c0f0&hide=css,scss,less,html,jupyter%20notebook,matlab,g-code"/>
+  <img height="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=P_Ramos16&theme=algolia&bg_color=90,1b4571,47c0f0&layout=compact"/>
 </div>
     
 ---
