@@ -61,47 +61,5 @@
   <!--<img height="240" src="https://github-readme-stats.vercel.app/api?username=P-Ramos16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=90,1b4571,47c0f0&show=reviews,prs_merged_percentage"/>-->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ramos16&layout=donut&langs_count=6&theme=algolia&bg_color=90,1b4571,47c0f0&hide=css,scss,less,html,jupyter%20notebook,matlab,g-code"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=P_Ramos16&theme=algolia&bg_color=90,1b4571,47c0f0&layout=compact&langs_count=8"/>
-</div>
-    
----
-    
-<h3 align="left">My Rices:</h3>
-<div style="display: inline_block">
-  <p>
-  <img align="left" alt="Me-pic" height="280" width="480" style="border-radius:50px;" src="https://i.imgur.com/XwvvYhD.png">
-  </p>
-  <p>
-  <img align="left" alt="Me-pic" height="280" width="480" style="border-radius:50px;" src="https://i.imgur.com/uLjHVd2.png">
-  </p>
-  <p>
-  <img align="left" alt="Me-pic" height="280" width="480" style="border-radius:50px;" src="https://i.imgur.com/fIn7QPJ.png">
-  </p>
-  <p>
-    <h4 height="280" width="480">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-    Specs:<br>
-      - MSI Modern 15 A5M <br>
-      - Ryzen 7 5700U (16) manually clocked to 0.4Ghz-4.35Ghz<br>
-      - Vega 8 iGpu<br>
-      - Kingston FURY 32GB 3200Mhz CL20<br>
-      - 2x Samsung 980 M.2 (512Gb and 1Tb)<br>
-      - Manjaro with KDE, Hyprland, XFCE and i3<br>
-      - Logitech G502 + Trackball<br>
-      - Keychron V1 Max<br>
-      - Hyperx Cloud2<br>
-     </h4>
-  </p>
-</div>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
----
-  
-  <div align="center">
-    <img alt="Me-pic" height="160" width="250" style="border-radius:50px;position:relative;" src="https://i.imgur.com/ULM7WrX.png">
-      <img alt="Me-pic" height="160" width="250" style="border-radius:50px;position:relative;" src="https://i.imgur.com/FaFd7FQ.png">
-    <img alt="Me-pic" height="160" width="250" style="border-radius:50px;position:relative;" src="https://i.imgur.com/bkbK5AK.jpg">
- <!--   <img align="left" alt="Me-pic" height="150" width="250" style="border-radius:50px;" src="https://i.imgur.com/cgwwfIy.jpg">-->
-  </div>
-  
+</div> 
 
