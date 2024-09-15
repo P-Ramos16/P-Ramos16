@@ -12,7 +12,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-ramos16" alt="p-ramos16" /></a> </p>-->
 
-- 🔭 I’m currently working on **terminar o curso sem queimar os miolos**
+- 🔭 I’m currently working on **começar o mestrado após acabar a licenciatura sem queimar os miolos**
 
 - 👨‍💻 All of my projects are available at [aqui](https://github.com/P-Ramos16/Projetos_Univ) mas se quiseres aulas práticas e coisas uteis podes vir [aqui](https://github.com/P-Ramos16/Univ)
 
